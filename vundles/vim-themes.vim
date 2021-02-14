@@ -1,4 +1,4 @@
 Plugin 'rakr/vim-two-firewatch'
 Plugin 'jacoborus/tender.vim'
-
-"colorscheme railscasts
+Plugin 'tyrannicaltoucan/vim-deep-space'
+Plugin 'jpo/vim-railscasts-theme'
