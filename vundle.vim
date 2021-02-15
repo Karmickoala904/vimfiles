@@ -6,7 +6,7 @@ call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
 
-source ~/.vim/vundles/grep.vim
+source ~/.vim/vundles/ack.vim
 source ~/.vim/vundles/bufOnly.vim
 source ~/.vim/vundles/auto-pairs.vim
 source ~/.vim/vundles/ctrlp.vim
