@@ -7,3 +7,4 @@ function! g:WorkaroundNERDTreeToggle()
 endfunction
 
 nmap <silent> <C-n> :call g:WorkaroundNERDTreeToggle()<CR>
+nmap <leader>f :NERDTreeFind<CR>

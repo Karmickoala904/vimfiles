@@ -19,6 +19,7 @@ set wrap                              " перенос строк"
 set laststatus=2                      " статусная строка включена всегда
 
 set backspace=indent,eol,start
+set colorcolumn=120
 
 syntax on
 
