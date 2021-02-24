@@ -22,6 +22,7 @@ source ~/.vim/vundles/vim-indexed-search.vim
 source ~/.vim/vundles/vim-rails.vim
 source ~/.vim/vundles/vim-editorconfig.vim
 source ~/.vim/vundles/vim-ruby.vim
+source ~/.vim/vundles/vim-go.vim
 source ~/.vim/vundles/vim-javascript.vim
 source ~/.vim/vundles/vim-slim.vim
 source ~/.vim/vundles/vim-surround.vim
