@@ -12,6 +12,7 @@ set hlsearch
 set ignorecase
 set incsearch
 set smartcase
+set colorcolumn=100
 
 set number                            " отображать номера строк
 set wrap                              " перенос строк"

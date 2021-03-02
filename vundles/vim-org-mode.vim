@@ -1,1 +1,0 @@
-Plugin 'jceb/vim-orgmode'
