@@ -1,1 +1,0 @@
-Plugin 'vim-syntastic/syntastic'

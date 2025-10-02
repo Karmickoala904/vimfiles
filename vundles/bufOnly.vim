@@ -1,1 +1,0 @@
-Plugin 'schickling/vim-bufonly'

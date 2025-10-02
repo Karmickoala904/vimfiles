@@ -1,4 +1,5 @@
 filetype plugin indent on             " required!
+syntax on
 
 set tabstop=2                         " количество пробелов, которыми символ табуляции отображается в тексте
 set softtabstop=2                     " количество пробелов, которыми символ табуляции отображается при добавлении
@@ -22,7 +23,6 @@ set laststatus=2                      " статусная строка вклю
 set backspace=indent,eol,start
 set colorcolumn=120
 
-syntax on
 
 if &term =~? 'mlterm\|xterm'
   set t_Co=256
